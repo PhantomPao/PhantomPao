@@ -8,6 +8,6 @@
   <img title="PHP" align="center" alt="PHP" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img title="JavaScript" align="center" alt="JavaScript" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img title="Canva" align="center" alt"Canva" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-  <img title="Figma" align="center" alt"Figma" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img title="Figma" align="center" alt="Figma" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img tittle="PixelArt" align="center" alt"PixelArt" height="40" width="52" src="https://raw.githubusercontent.com/github/explore/1e17a81b15f2961de6337c40b02920a681696c33/topics/pixel-art/pixel-art.png"
 </div>
